@@ -1,9 +1,9 @@
 Package: com.coteyka.lyricsync
 Name: LyricSync
-Version: 0.1.0
+Version: 0.1.1
 Architecture: iphoneos-arm
-Description: Synchronized (LRC) lyrics highlighting with an iOS 6 skeuomorphic glow for the Music app.
+Description: Synchronized (LRC) lyrics highlighting with an iOS 6 skeuomorphic glow for the stock Music app.
 Maintainer: coteyka
 Author: coteyka
 Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 6.0), firmware (<< 7.0)
