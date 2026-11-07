@@ -1,0 +1,13 @@
+# Theos build artifacts
+.theos/
+obj/
+packages/
+*.deb
+*.tbd
+
+# Apple proprietary assets (from iPodUI.framework — must not be redistributed)
+assets/
+
+# OS junk
+.DS_Store
+*.swp
