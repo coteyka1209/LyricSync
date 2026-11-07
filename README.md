@@ -31,6 +31,7 @@ Grab the `.deb` from [Releases](../../releases) and install:
 ```bash
 dpkg -i com.coteyka.lyricsync_*.deb
 ```
+or add the `http://coteyka.qzz.io` repo to your Cydia app
 
 ## Supported lyrics format
 
