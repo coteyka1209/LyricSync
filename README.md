@@ -24,7 +24,7 @@ line with a soft glow and auto-scrolls the text in sync with playback.
 - iPhone / iPod touch on **iOS 6.0 – 6.1.3** (armv7)
 - MobileSubstrate (Cydia Substrate)
 
-## Install
+## Install and usage
 
 Grab the `.deb` from [Releases](../../releases) and install:
 
@@ -32,6 +32,8 @@ Grab the `.deb` from [Releases](../../releases) and install:
 dpkg -i com.coteyka.lyricsync_*.deb
 ```
 or add the `http://coteyka.qzz.io` repo to your Cydia app
+
+Then, add grab the lyrics in LRC format, and add them to your song through iTunes
 
 ## Supported lyrics format
 
