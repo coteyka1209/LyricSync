@@ -5,6 +5,7 @@
 Stock iOS 6 renders song lyrics as plain scrolling text — timestamps embedded in LRC-formatted
 lyrics are shown as garbage. LyricSync parses the timestamps, highlights the currently playing
 line with a soft glow and auto-scrolls the text in sync with playback.
+Made with GLM 5.3 Flash and Gemini 3.8 Flash
 
 | Before (stock iOS 6) | After (LyricSync) |
 |---|---|
